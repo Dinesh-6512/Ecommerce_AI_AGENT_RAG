@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+pydantic
+email-validator
+python-dotenv
+python-multipart
+pyjwt
+bcrypt
+langchain-groq
+langgraph
+langchain-core
+langfuse>=3.0.0
+reportlab
+chromadb
+pypdf
